@@ -67,5 +67,5 @@ plt.show()
 
 
 <H3>Results:</H3>
-Thus, Kalman filter is implemented to predict the next position and   velocity in Python
+Thus, Kalman filter is implemented to predict the next position and   velocity in Python
 
